@@ -6,7 +6,7 @@
 
 <!-- Einleitung -->
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
-- 🎓 Business Informatics student at **JKU Linz** on the side
+- 🎓 Business Informatics student at **JKU Linz**
 - 🧰 **VS Code** enthusiast — with the terminal always one tab away
 - 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with Vibe as my daily coding agent
 - 🐳 DevOps heart: **Docker**, **GitHub Actions**, CI/CD pipelines and clean tooling
