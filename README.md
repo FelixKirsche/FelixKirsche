@@ -8,9 +8,6 @@
   <a href="mailto:felix.kirschner99@gmail.com">
     <img src="https://img.shields.io/badge/Mail-felix.kirschner99%40gmail.com-f0e130?logo=gmail&logoColor=black&style=flat-square" alt="mail" />
   </a>
-  <a href="https://github.com/FelixKirsche?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Pro-fa520f?logo=github&style=flat-square" alt="pro" />
-  </a>
 </p>
 
 <!-- Einleitung -->
