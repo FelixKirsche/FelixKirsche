@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=160&section=header&text=Felix%20Kirschner&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%40%20Energie%20AG%20Ober%C3%B6sterreich&descSize=20&descAlignY=68" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=160&section=header&text=Felix%20Kirschner&fontSize=68&fontColor=ffffff&animation=fadeIn&stroke=e8560c&strokeWidth=1&desc=Full%20Stack%20Developer%20%40%20Energie%20AG%20Ober%C3%B6sterreich&descSize=20&descAlignY=72" alt="header" />
 </h1>
 
 <p align="center">
@@ -16,8 +16,9 @@
 <!-- Einleitung -->
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz** on the side
-- 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with Vibe as my daily coding agent and locally hosted models served through **Atomic Chat**
+- 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with Vibe as my daily coding agent
 - 🐳 DevOps heart: **Docker**, **GitHub Actions**, CI/CD pipelines and clean tooling
+- 🛡️ **GitHub Enterprise admin**
 - 💬 Ask me about **.NET, Blazor or how to over-engineer a project's git setup**
 - 📫 Reach me at [felix.kirschner99@gmail.com](mailto:felix.kirschner99@gmail.com)
 
@@ -76,7 +77,8 @@
   </a>&nbsp;&nbsp;
   <a href="https://pi.ai">
     <img src="https://img.shields.io/badge/pi-assistant-grey?style=flat-square" alt="pi" />
-  </a>
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Atomic%20Chat-local%20LLM%20host-2ea44f?style=flat-square" alt="atomic chat" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
