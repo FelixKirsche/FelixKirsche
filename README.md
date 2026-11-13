@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=160&section=header&text=Felix%20Kirschner&fontSize=68&fontColor=ffffff&animation=fadeIn&stroke=e8560c&strokeWidth=1&desc=Full%20Stack%20Developer%20%40%20Energie%20AG%20Ober%C3%B6sterreich&descSize=20&descAlignY=72" alt="header" />
-</h1>
+<h3 align="center">Hi there, I'm Felix Kirschner 👋</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FA520F&center=true&vCenter=true&width=640&lines=Full-stack+.NET+by+day;Business+informatics+student+by+night;Mistral+fan+always" alt="typing" />
+</p>
 
 <p align="center">
   <a href="mailto:felix.kirschner99@gmail.com">
@@ -9,12 +11,6 @@
   <a href="https://github.com/FelixKirsche?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Pro-fa520f?logo=github&style=flat-square" alt="pro" />
   </a>
-</p>
-
-<h3 align="center">Hi there, I'm Felix 👋</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FA520F&center=true&vCenter=true&width=640&lines=Full-stack+.NET+by+day;Business+informatics+student+by+night;Mistral+fan+always" alt="typing" />
 </p>
 
 <!-- Einleitung -->
@@ -94,10 +90,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelixKirsche&color=fa520f&style=flat-square" alt="profile views" />
-</p>
 
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=120&section=footer" alt="footer" />
