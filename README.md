@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FA520F&center=true&vCenter=true&width=640&lines=Full-stack+.NET+by+day;Business+informatics+student+by+night;Having+fun+with+tech+always" alt="typing" />
 </p>
 
-<p align="center">
-  <a href="mailto:felix.kirschner99@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-felix.kirschner99%40gmail.com-f0e130?logo=gmail&logoColor=black&style=flat-square" alt="mail" />
-  </a>
-</p>
-
 <!-- Einleitung -->
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz** on the side
