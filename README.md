@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=160&section=header&text=Felix%20Kirschner&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Business%20Informatics%20Student%20%40%20JKU%20Linz&descSize=20&descAlignY=68" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=160&section=header&text=Felix%20Kirschner&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%40%20Energie%20AG%20Ober%C3%B6sterreich&descSize=20&descAlignY=68" alt="header" />
 </h1>
 
 <p align="center">
@@ -14,8 +14,8 @@
 <h3 align="center">Hi there, I'm Felix 👋</h3>
 
 <!-- Einleitung -->
-- 🎓 Business Informatics student at **JKU Linz**
-- 🏢 Working at **Energie AG Oberösterreich** — Services und Digital Solutions
+- 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
+- 🎓 Business Informatics student at **JKU Linz** on the side
 - 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with Vibe as my daily coding agent and locally hosted models served through **Atomic Chat**
 - 🐳 DevOps heart: **Docker**, **GitHub Actions**, CI/CD pipelines and clean tooling
 - 💬 Ask me about **.NET, Blazor or how to over-engineer a project's git setup**
@@ -65,6 +65,9 @@
   <a href="https://github.com/keycloak/keycloak">
     <img src="https://img.shields.io/badge/keycloak-IAM-red?style=flat-square" alt="keycloak" />
   </a>&nbsp;&nbsp;
+  <a href="https://github.com/abpframework/abp">
+    <img src="https://img.shields.io/badge/ABP-framework-yellow?style=flat-square" alt="abp" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/deepseek-ai">
     <img src="https://img.shields.io/badge/deepseek--ai-open%20models-4D6BFB?style=flat-square" alt="deepseek" />
   </a>&nbsp;&nbsp;
@@ -77,13 +80,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
-
-<!-- Snake -->
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FelixKirsche/FelixKirsche/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-</p>
 
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=120&section=footer" alt="footer" />
