@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/Azure-informational?style=flat-square" alt="Azure" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-informational?style=flat-square" alt="Java" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat-square" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EF%20Core-informational?style=flat-square" alt="EF Core" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FluentValidation-informational?style=flat-square" alt="FluentValidation" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Testcontainers-informational?style=flat-square" alt="Testcontainers" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MCP-informational?style=flat-square" alt="MCP" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-informational?style=flat-square" alt="Docker" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat-square" alt="GitHub Actions" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-informational?style=flat-square" alt="Angular" />&nbsp;&nbsp;
@@ -63,11 +67,14 @@
   <a href="https://github.com/github/squad">
     <img src="https://img.shields.io/badge/squad-AI%20agent%20teams-black?style=flat-square" alt="squad" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/keycloak/keycloak">
-    <img src="https://img.shields.io/badge/keycloak-IAM-red?style=flat-square" alt="keycloak" />
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/abpframework/abp">
     <img src="https://img.shields.io/badge/ABP-framework-yellow?style=flat-square" alt="abp" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/reactiveui/ReactiveUI">
+    <img src="https://img.shields.io/badge/ReactiveUI-MVVM-blueviolet?style=flat-square" alt="reactiveui" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/MudBlazor/MudBlazor">
+    <img src="https://img.shields.io/badge/MudBlazor-components-594AE2?style=flat-square" alt="mudblazor" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/deepseek-ai">
     <img src="https://img.shields.io/badge/deepseek--ai-open%20models-4D6BFB?style=flat-square" alt="deepseek" />
