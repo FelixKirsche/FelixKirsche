@@ -13,9 +13,14 @@
 
 <h3 align="center">Hi there, I'm Felix 👋</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FA520F&center=true&vCenter=true&width=640&lines=Full-stack+.NET+by+day;Business+informatics+student+by+night;Mistral+fan+always" alt="typing" />
+</p>
+
 <!-- Einleitung -->
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz** on the side
+- 🧰 **VS Code** enthusiast — with the terminal always one tab away
 - 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with Vibe as my daily coding agent
 - 🐳 DevOps heart: **Docker**, **GitHub Actions**, CI/CD pipelines and clean tooling
 - 🛡️ **GitHub Enterprise admin**
@@ -89,6 +94,10 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelixKirsche&color=fa520f&style=flat-square" alt="profile views" />
+</p>
 
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa520f,100:f0e130&height=120&section=footer" alt="footer" />
