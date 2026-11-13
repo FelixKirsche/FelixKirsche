@@ -21,35 +21,13 @@
 - 💬 Ask me about **.NET, Blazor or how to over-engineer a project's git setup**
 - 📫 Reach me at [felix.kirschner99@gmail.com](mailto:felix.kirschner99@gmail.com)
 
-<!-- Mistral / Docker / GitHub Fan-Zeile -->
-<p align="center">
-  <a href="https://mistral.ai">
-    <img src="https://img.shields.io/badge/Mistral-fan-orange?logo=mistralai&logoColor=white&style=for-the-badge" alt="mistral" />
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge" alt="docker" />
-  </a>
-  <a href="https://github.com/FelixKirsche">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="github" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
 
 <!-- Statistiken -->
 <h3 align="center">⚙️ GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelixKirsche&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelixKirsche&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="langs" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=FelixKirsche&theme=radical&hide_border=false" alt="streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelixKirsche&theme=radical&no-frame=false&row=1&column=6&margin-w=8" alt="trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
@@ -62,8 +40,6 @@
   <img src="https://img.shields.io/badge/Blazor-informational?style=flat-square" alt="Blazor" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Azure-informational?style=flat-square" alt="Azure" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-informational?style=flat-square" alt="Java" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaFX-informational?style=flat-square" alt="JavaFX" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Maven-informational?style=flat-square" alt="Maven" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat-square" alt="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-informational?style=flat-square" alt="Docker" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat-square" alt="GitHub Actions" />&nbsp;&nbsp;
