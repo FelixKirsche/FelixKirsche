@@ -8,8 +8,8 @@
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz**
 - 🧰 **VS Code** enthusiast — with the terminal always one tab away
-- 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with Vibe as my daily coding agent
-- 🐳 DevOps heart: **Docker**, **GitHub Actions**, CI/CD pipelines and clean tooling
+- 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with **Vibe** and **GitHub Copilot** as my daily coding agents
+- 🐳 DevOps heart: **Docker**, **GitHub Actions** and CI/CD pipelines
 - 🛡️ **GitHub Enterprise admin**
 - 💬 Ask me about **.NET, Blazor or how to over-engineer a project's git setup**
 - 📫 Reach me at [felix.kirschner99@gmail.com](mailto:felix.kirschner99@gmail.com)
