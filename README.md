@@ -7,11 +7,11 @@
 <!-- Einleitung -->
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz**
-- 🧰 **VS Code** enthusiast — with the terminal always one tab away
-- 🤖 LLM enthusiast: **Mistral, DeepSeek, GLM and Pi** — with **Vibe** and **GitHub Copilot** as my daily coding agents
+- 🧰 **VS Code** through and through — with the terminal always one tab away
+- 🤖 LLM enthusiast: **DeepSeek and GLM** as models — coding daily with **Vibe**, **GitHub Copilot** and the **Pi** CLI
 - 🐳 DevOps heart: **Docker**, **GitHub Actions** and CI/CD pipelines
 - 🛡️ **GitHub Enterprise admin**
-- 💬 Ask me about **.NET, Blazor or how to over-engineer a project's git setup**
+- 💬 Always happy to talk about **.NET architecture and clean backends**
 - 📫 Reach me at [felix.kirschner99@gmail.com](mailto:felix.kirschner99@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
