@@ -31,22 +31,21 @@
   <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square" alt="C#" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&amp;logo=blazor&amp;logoColor=white" alt="Blazor" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square" alt="Java" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=white" alt="Maven" />
-  <br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="EF Core" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FluentValidation-0F766E?style=flat-square" alt="FluentValidation" />
-  <br>
+  <img src="https://img.shields.io/badge/FluentValidation-0F766E?style=flat-square" alt="FluentValidation" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/xUnit-7C3AED?style=flat-square" alt="xUnit" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Testcontainers-0E70C0?style=flat-square" alt="Testcontainers" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Testcontainers-0E70C0?style=flat-square" alt="Testcontainers" />
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square" alt="Java" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
 </p>
 
 <br>
