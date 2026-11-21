@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Felix Kirschner 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FA520F&center=true&vCenter=true&width=640&lines=Full-stack+.NET+by+day;Business+informatics+student+by+night;Having+fun+with+tech+always" alt="Full-stack .NET by day, business informatics student by night, having fun with tech always" />
-</p>
-
 <!-- Intro -->
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz**
