@@ -63,8 +63,6 @@
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP" />
 </p>
 
-<br>
-
 <!-- Followed projects -->
 <h2 align="center">🔗 Projects I follow</h2>
 
