@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />&nbsp;
   <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square" alt="Java" />&nbsp;
-  <img src="https://img.shields.io/badge/MCP-tooling-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP tooling" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP" />
 </p>
 
 <!-- Followed projects -->
