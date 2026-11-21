@@ -14,8 +14,6 @@
 - 💬 Always happy to talk about **.NET architecture and clean backends**
 - 📫 Reach me at [felix.kirschner99@gmail.com](mailto:felix.kirschner99@gmail.com)
 
-<hr>
-
 <!-- Work -->
 <h2 align="center">💼 At work</h2>
 
@@ -37,8 +35,6 @@
 <p align="center">
   <sub>Work code lives in company-owned GitHub accounts, so there are no links here.</sub>
 </p>
-
-<hr>
 
 <!-- Tech stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
