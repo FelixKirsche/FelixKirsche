@@ -8,9 +8,9 @@
 - 💼 Full-stack developer at **Energie AG Oberösterreich** — Services und Digital Solutions
 - 🎓 Business Informatics student at **JKU Linz**
 - 🤖 LLM enthusiast: **DeepSeek and GLM** as models — coding daily with **Vibe**, **GitHub Copilot** and the **Pi** CLI
-- 🐳 DevOps heart: **Docker**, **GitHub Actions** and CI/CD pipelines
-- 🛡️ **GitHub Enterprise admin** — administering one enterprise instance at work
-- 🧰 **VS Code** through and through — with the terminal always one tab away
+- 🐳 DevOps heart: **Docker**, **GitHub Actions**, **Azure DevOps** and CI/CD
+- 🛡️ **GitHub Enterprise admin** for the instance our company's code lives in
+- 🧰 **VS Code** through and through
 - 💬 Always happy to talk about **.NET architecture and clean backends**
 - 📫 Reach me at [felix.kirschner99@gmail.com](mailto:felix.kirschner99@gmail.com)
 
@@ -46,9 +46,9 @@
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />&nbsp;
   <img src="https://img.shields.io/badge/ABP-00A3E0?style=flat-square" alt="ABP" />
   <br>
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="EF Core" />&nbsp;
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="EF Core" />&nbsp;
   <img src="https://img.shields.io/badge/Dapper-2D7D9A?style=flat-square" alt="Dapper" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />&nbsp;
@@ -60,16 +60,13 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />&nbsp;
   <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square" alt="Java" />&nbsp;
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/MCP-tooling-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP tooling" />
 </p>
 
 <!-- Followed projects -->
 <h2 align="center">🔗 Projects I follow</h2>
 
 <p align="center">
-  <a href="https://github.com/abpframework/abp">
-    <img src="https://img.shields.io/badge/ABP-framework-00A3E0?style=flat-square" alt="ABP framework" />
-  </a>&nbsp;
   <a href="https://github.com/Megabit/Blazorise">
     <img src="https://img.shields.io/badge/Blazorise-components-7C3AED?style=flat-square" alt="Blazorise" />
   </a>&nbsp;
