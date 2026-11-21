@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/ABP-00A3E0?style=flat-square" alt="ABP" />
   <br>
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="EF Core" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />&nbsp;
-  <img src="https://img.shields.io/badge/FluentValidation-0F766E?style=flat-square" alt="FluentValidation" />&nbsp;
   <img src="https://img.shields.io/badge/Dapper-2D7D9A?style=flat-square" alt="Dapper" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />&nbsp;
