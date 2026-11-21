@@ -20,15 +20,15 @@
 <ul>
   <li>
     <b>Smart Meter Monitoring</b> — dashboards, KPIs and fault analysis for ~300k smart meters, replacing a legacy system and fed daily by several source systems merged into one SQL database.<br>
-    <sub>Blazor · C#/.NET · EF Core · xUnit · built solo, 2022–2023</sub>
+    <sub>Blazor · C#/.NET · EF Core · xUnit · solo, 2022–2023</sub>
   </li>
   <li>
-    <b>Maintenance Web App</b> — maintenance software for power plants with ~50 modules, e.g. shift planning, personnel, orders, defect reports, demand and purchasing. Built full stack in a two-person team since 2023.<br>
-    <sub>ABP framework · Blazor · C#/.NET · EF Core · xUnit · CI/CD</sub>
+    <b>Maintenance Web App</b> — maintenance software for power plants with ~50 modules, e.g. shift planning, personnel, orders, defect reports, demand and purchasing.<br>
+    <sub>ABP framework · Blazor · C#/.NET · EF Core · xUnit · CI/CD · full stack, two-person team, since 2023</sub>
   </li>
   <li>
-    <b>Stock Market APIs</b> — several ASP.NET Core APIs behind automated stock trading, built within a few weeks in 2023.<br>
-    <sub>ASP.NET Core · Dapper · xUnit · CI/CD</sub>
+    <b>Stock Market APIs</b> — several ASP.NET Core APIs behind automated stock trading.<br>
+    <sub>ASP.NET Core · Dapper · xUnit · CI/CD · solo, a few weeks in 2023</sub>
   </li>
 </ul>
 
