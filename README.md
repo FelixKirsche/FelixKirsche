@@ -91,6 +91,8 @@
   <a href="https://github.com/docker/awesome-compose">
     <img src="https://img.shields.io/badge/awesome--compose-docker%20samples-2496ED?style=flat-square" alt="awesome-compose" />
   </a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Atomic%20Chat-local%20LLM%20host-2ea44f?style=flat-square" alt="atomic chat" />
+  <a href="https://github.com/AtomicBot-ai/Atomic-Chat">
+    <img src="https://img.shields.io/badge/Atomic%20Chat-local%20LLM%20host-2ea44f?style=flat-square" alt="Atomic Chat" />
+  </a>
 </p>
 
