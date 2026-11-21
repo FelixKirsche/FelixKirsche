@@ -69,28 +69,45 @@
 <h2 align="center">🔗 Projects I follow</h2>
 
 <p align="center">
+  <a href="https://github.com/abpframework/abp">
+    <img src="https://img.shields.io/badge/ABP-framework-00A3E0?style=flat-square" alt="ABP framework" />
+  </a>&nbsp;
+  <a href="https://github.com/Megabit/Blazorise">
+    <img src="https://img.shields.io/badge/Blazorise-components-7C3AED?style=flat-square" alt="Blazorise" />
+  </a>&nbsp;
+  <a href="https://github.com/abpframework/abp-samples">
+    <img src="https://img.shields.io/badge/ABP-samples-0082B4?style=flat-square" alt="ABP samples" />
+  </a>&nbsp;
+  <a href="https://github.com/reactiveui/ReactiveUI">
+    <img src="https://img.shields.io/badge/ReactiveUI-MVVM-8B5CF6?style=flat-square" alt="ReactiveUI" />
+  </a>&nbsp;
+  <a href="https://github.com/FluentValidation/FluentValidation">
+    <img src="https://img.shields.io/badge/FluentValidation-validation-0F766E?style=flat-square" alt="FluentValidation" />
+  </a>
+  <br>
   <a href="https://github.com/mistralai/mistral-vibe">
     <img src="https://img.shields.io/badge/mistral--vibe-coding%20agent-FA520F?style=flat-square" alt="mistral-vibe" />
   </a>&nbsp;
   <a href="https://github.com/earendil-works/pi">
     <img src="https://img.shields.io/badge/pi-agent%20CLI-181717?style=flat-square" alt="pi" />
   </a>&nbsp;
-  <a href="https://github.com/github/squad">
-    <img src="https://img.shields.io/badge/squad-AI%20agent%20teams-000000?style=flat-square" alt="squad" />
+  <a href="https://github.com/modelcontextprotocol/servers">
+    <img src="https://img.shields.io/badge/MCP-servers-000000?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP servers" />
   </a>&nbsp;
-  <a href="https://github.com/abpframework/abp">
-    <img src="https://img.shields.io/badge/ABP-framework-00A3E0?style=flat-square" alt="abp" />
-  </a>&nbsp;
-  <a href="https://github.com/reactiveui/ReactiveUI">
-    <img src="https://img.shields.io/badge/ReactiveUI-MVVM-8B5CF6?style=flat-square" alt="reactiveui" />
-  </a>&nbsp;
-  <a href="https://github.com/MudBlazor/MudBlazor">
-    <img src="https://img.shields.io/badge/MudBlazor-components-594AE2?style=flat-square" alt="mudblazor" />
-  </a>&nbsp;
-  <a href="https://github.com/docker/awesome-compose">
-    <img src="https://img.shields.io/badge/awesome--compose-docker%20samples-2496ED?style=flat-square" alt="awesome-compose" />
+  <a href="https://github.com/ollama/ollama">
+    <img src="https://img.shields.io/badge/ollama-local%20LLMs-111111?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="ollama" />
   </a>&nbsp;
   <a href="https://github.com/AtomicBot-ai/Atomic-Chat">
     <img src="https://img.shields.io/badge/Atomic%20Chat-local%20LLM%20host-2ea44f?style=flat-square" alt="Atomic Chat" />
+  </a>
+  <br>
+  <a href="https://github.com/github/squad">
+    <img src="https://img.shields.io/badge/squad-AI%20agent%20teams-000000?style=flat-square" alt="squad" />
+  </a>&nbsp;
+  <a href="https://github.com/microsoft/autogen">
+    <img src="https://img.shields.io/badge/AutoGen-multi--agent-0078D4?style=flat-square" alt="AutoGen" />
+  </a>&nbsp;
+  <a href="https://github.com/anthropics/skills">
+    <img src="https://img.shields.io/badge/agent--skills-CC785C?style=flat-square" alt="agent skills" />
   </a>
 </p>
